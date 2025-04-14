@@ -15,5 +15,5 @@
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/logsentry.git
+   git clone https://github.com/ArshCipher/logsentry.git
    cd logsentry
